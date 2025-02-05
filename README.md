@@ -8,3 +8,5 @@ Skills
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![TailwindCSS Badge](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=Vue.js&logoColor=%234FC08D)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denshou&layout=compact)
