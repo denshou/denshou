@@ -1,7 +1,7 @@
 
+
 <div align= "center">
-    <img src="https://github.com/user-attachments/assets/d5c2f491-6901-4d58-8e99-79683791fdb8" alt="Frame 1">
-    <img src="https://github.com/user-attachments/assets/ccd5ad78-7e18-4822-994d-40c2d7f14463" alt="banner">
+<img src="https://github.com/user-attachments/assets/9f3f3d57-d303-4e51-9b08-4c01361d2b60" alt="Frame 1 ">
     </div>
 <!--     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> denshou </h2>  
