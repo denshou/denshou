@@ -1,8 +1,9 @@
 
 
 
+
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&&color=0:A7DBD8,100:cfeee5&height=300&section=header&text=denshou&desc=GitHub&&fontColor=fff&animation=fadeIn" alt="header">
+    <img src="https://github.com/user-attachments/assets/025b8a0f-63dc-4db7-bc4a-d14eb5b732fd" alt="banner">
     </div>
 <!--     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> denshou </h2>  
