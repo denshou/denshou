@@ -1,9 +1,6 @@
 
-
-
-
 <div align= "center">
-    <img src="https://github.com/user-attachments/assets/025b8a0f-63dc-4db7-bc4a-d14eb5b732fd" alt="banner">
+    <img src="https://github.com/user-attachments/assets/ccd5ad78-7e18-4822-994d-40c2d7f14463" alt="banner">
     </div>
 <!--     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> denshou </h2>  
